@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://framinghamplumbingco.com/sitemap.xml
